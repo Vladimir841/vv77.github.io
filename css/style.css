@@ -1,0 +1,47 @@
+.container_1{
+  width: 930px;
+  margin: 0 auto;
+  height: 100vh;
+  background-color: #BFE39F;
+}
+
+
+.container_2{
+	width: 930px;
+  margin: 0 auto;
+  height: 100vh;
+	background-color: #E7A6D7;
+}
+
+body{
+	background-color: #F6F6F6;
+}
+
+.logo{
+	margin: 0 auto;
+
+}
+
+.podpis{
+	text-align: center;
+	margin-top: 25%;
+}
+
+.container{
+	height: 1280px;
+}
+
+.box{
+	padding: 30px;
+	background-color: #2A13E1;
+	width: 300px;
+	margin: 0 auto;
+	color: #D5EC1E;
+	font-size: 40px;
+	text-transform: uppercase;
+  border-radius: 8px;
+  text-align: center;
+}
+
+
+
